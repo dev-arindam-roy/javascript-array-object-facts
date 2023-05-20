@@ -172,7 +172,7 @@ console.log(newx10[6].myArrayKey6);
 
 ```
 
-> ** To manage the Json/Object/Array - need below codes**
+> **To manage the Json/Object/Array - need below codes**
 ```js
 
 Array.isArray(arr); // to check array or not
